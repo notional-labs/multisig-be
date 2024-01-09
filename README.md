@@ -2,8 +2,8 @@
 
 ## Pre Requisites
 
-- Node Version 18+
-- NPM Version 9+
+- Node Version 21+
+- NPM Version 10+
 
 ## Script
 
