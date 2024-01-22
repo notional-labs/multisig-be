@@ -7,7 +7,7 @@ import cors from 'cors';
 
 const app = express();
 app.use(cors()); 
-const port = 4000;
+const port = 8080;
 require('dotenv').config();
 
 mongoose
